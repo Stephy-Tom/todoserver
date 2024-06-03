@@ -1,0 +1,29 @@
+{
+  "todolist": [
+    {
+      "todoName": "movies",
+      "todoDescription": "watched  hindi movies",
+      "id": 2
+    },
+    {
+      "todoName": "travel",
+      "todoDescription": "travel to thailand",
+      "id": 3
+    },
+    {
+      "todoName": "learn",
+      "todoDescription": "learn react and redux",
+      "id": 4
+    },
+    {
+      "todoName": "cook",
+      "todoDescription": "cooked chicken curry",
+      "id": 5
+    },
+    {
+      "todoName": "plants",
+      "todoDescription": "water the plants",
+      "id": 6
+    }
+  ]
+}
